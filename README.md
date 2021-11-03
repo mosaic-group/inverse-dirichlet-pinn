@@ -18,6 +18,8 @@ This repository contains the supplementary code to the manuscript [here](https:/
 
 ### Active Turbulence
 
+The training data is publicly available [here](https://cloud.mpi-cbg.de/index.php/s/sFPQ49WQcbLgEAZ).
+
 * `solve_vort_torus.py`, `solve_vort_square.py`: Infers solution of active turbulence problem in annular and squared domain.
 * `eval_solve_vort_torus.py`, `eval_solve_vort_square.py`: Evaluation scripts for solution code.
 * `eval_solve_vort_square_gradient.py`: Retrieve backpropagated gradients for solution in squared domain.
