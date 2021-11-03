@@ -2,7 +2,7 @@
 
 This repository contains the supplementary code to the manuscript [here](https://arxiv.org/abs/2107.00940). The codes should be sufficient to reproduce all the results presented.
 
-**Dependencies:** `numpy`, `scipy`, `torch`, `matplotlib`, `seaborn`, `pandas`
+**Dependencies:** `numpy`, `scipy`, `sklearn`, `torch`, `matplotlib`, `seaborn`, `pandas`
 
 ## Contents
 
